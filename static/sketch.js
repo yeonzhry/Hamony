@@ -6,7 +6,7 @@ let predictedNote = "";
 let predictedConfidence = 0;
 let lastPredictionRequestMs = 0;
 let isPredicting = false;
-const PREDICT_INTERVAL_MS = 1000;
+const PREDICT_INTERVAL_MS = 1200;
 const PREDICT_ERROR_PAUSE_MS = 4000;
 const PREDICT_API_URL = "/api/predict";
 

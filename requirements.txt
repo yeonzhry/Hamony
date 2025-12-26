@@ -1,11 +1,11 @@
 fastapi
 uvicorn
 python-multipart
-tensorflow-cpu
-numpy
-pillow
-opencv-python-headless
+tensorflow-cpu==2.15.0
+mediapipe==0.10.9
 cvzone
-mediapipe
+opencv-python-headless
+protobuf==3.20.3
+pillow
+numpy<2.0
 mysql-connector-python
-protobuf

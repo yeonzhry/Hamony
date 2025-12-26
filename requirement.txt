@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+tensorflow-cpu
+numpy
+pillow
+opencv-python-headless
+cvzone
+mediapipe
+mysql-connector-python
+protobuf

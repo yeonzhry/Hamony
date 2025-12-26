@@ -1,0 +1,7 @@
+0 Re
+1 Mi
+2 Fa
+3 Sol
+4 La
+5 Ti
+6 Do
